@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project 10 of Android Course With Saumya Singh- Gradient Design UI</string>
+    <string name="sing_in">Sing In</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? signUp</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or">OR name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="enter_password2">Enter Password</string>
+    <string name="enter_user_name2">Enter User name</string>
+    <string name="enter_email_id">Enter email id</string>
+    <string name="signup">SignUp</string>
+</resources>
